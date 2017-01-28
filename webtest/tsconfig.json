@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        // "lib": [
+        //     "dom",
+        //     "es2015",
+        //     "es2016"
+        // ],
+        // "target": "es2016",
+        // "module": "es2015",
+        // "noImplicitAny": false,
+        // "sourceMap": true,
+        // "strictNullChecks": true
+        // "outDir": "build/ts"
+    }
+    // "include": [
+    //     "src/**/*.ts"
+    // ]
+}
